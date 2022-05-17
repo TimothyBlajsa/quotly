@@ -44,8 +44,8 @@
 }
 
 #generate:hover {
-    opacity: 0.5;
-    pointer-events: none;
+    background-color: lightgray;
+    color: gray;
 }
 
 .outer-container {
