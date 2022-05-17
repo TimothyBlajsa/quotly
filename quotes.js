@@ -35,6 +35,14 @@ const generateQuote = function() {
     {
         quote: "Liberty consists in doing what one desires.",
         author: "John Stuart Mill"
+    },
+    {
+        quote: "Set your life on fire. Seek those who fan your flames.",
+        author: "Rumi"
+    },
+    {
+        quote: "I know you’re tired but come, this is the way.",
+        author: "Rumi"
     }
 ];
 
