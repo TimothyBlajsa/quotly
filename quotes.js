@@ -1,40 +1,40 @@
 const generateQuote = function() {
     const quotes = [
     {
-        quote: "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.",
-        author: "Albus Dumbledore"
+        quote: "The unexamined life is not worth living.",
+        author: "Socrates"
     },
     {
-        quote: "It is impossible to manufacture or imitate love",
-        author: "Horace Slughorn"
+        quote: "Whereof one cannot speak, thereof one must be silent.",
+        author: " Ludwig Wittgenstein"
     },
     {
-        quote: "Being different isn't a bad thing. I means that you are brave enough to be yourself.",
-        author: "Luna Lovegood"
+        quote: "Entities should not be multiplied unnecessarily.",
+        author: " William of Ockham"
     },
     {
-        quote: "If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.",
-        author: "Sirius Black"
+        quote: "The life of man (in a state of nature) is solitary, poor, nasty, brutish, and short.",
+        author: " Thomas Hobbes"
     },
     {
-        quote: "Never trust anything that can think for itself if you can’t see where it keeps its brain.",
-        author: "Arthur Weasley"
+        quote: "I think therefore I am.",
+        author: " René Descartes"
     },
     {
-        quote: "Every human life is worth the same, and worth saving.",
-        author: "Kingsley Shacklebolt"
+        quote: "God is dead! He remains dead! And we have killed him.",
+        author: "Friedrich Nietzsche"
     },
     {
-        quote: "Have a biscuit, Potter.",
-        author: "Minerva McGonagall"
+        quote: "Happiness is not an ideal of reason but of imagination.",
+        author: "Immanuel Kant"
     },
     {
-        quote: "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-        author: "Albus Dumbledore"
+        quote: "No man's knowledge here can go beyond his experience.",
+        author: "John Locke"
     },
     {
-        quote: "Socks are Dobby’s favorite, favorite clothes, sir!",
-        author: "Dobby"
+        quote: "Liberty consists in doing what one desires.",
+        author: "John Stuart Mill"
     }
 ];
 
